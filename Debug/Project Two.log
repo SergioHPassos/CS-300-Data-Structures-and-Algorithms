@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\shp36\Documents\Programming\CPP\CS 300 Project Two\Project Two\Source.cpp(85,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\shp36\Documents\Programming\CPP\CS 300 Project Two\Project Two\Source.cpp(211,35): warning C4018: '<': signed/unsigned mismatch
+  Project Two.vcxproj -> C:\Users\shp36\Documents\Programming\CPP\CS 300 Project Two\Project Two\Debug\Project Two.exe
